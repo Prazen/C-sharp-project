@@ -1,0 +1,15 @@
+D:\Dot.net\C# - Practice\bin\Debug\net8.0\C# - Practice.exe
+D:\Dot.net\C# - Practice\bin\Debug\net8.0\C# - Practice.deps.json
+D:\Dot.net\C# - Practice\bin\Debug\net8.0\C# - Practice.runtimeconfig.json
+D:\Dot.net\C# - Practice\bin\Debug\net8.0\C# - Practice.dll
+D:\Dot.net\C# - Practice\bin\Debug\net8.0\C# - Practice.pdb
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.AssemblyInfoInputs.cache
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.AssemblyInfo.cs
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.csproj.CoreCompileInputs.cache
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.dll
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\refint\C# - Practice.dll
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.pdb
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.genruntimeconfig.cache
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\ref\C# - Practice.dll
+D:\Dot.net\C# - Practice\obj\Debug\net8.0\C# - Practice.sourcelink.json
